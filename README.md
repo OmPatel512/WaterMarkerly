@@ -1,2 +1,2 @@
 # WaterMarkerly
-A GIU based Watermark adder.
+A GUI based Watermark adder.
